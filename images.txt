@@ -3,4 +3,6 @@ debian:12
 busybox
 redis
 python
+jenkins
+ubuntu
 

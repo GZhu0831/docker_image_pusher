@@ -1,4 +1,6 @@
 nginx
 debian:12
-Ubuntu
-BusyBox
+busybox
+redis
+python
+

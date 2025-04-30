@@ -1,2 +1,4 @@
 nginx
 debian:12
+Ubuntu
+BusyBox

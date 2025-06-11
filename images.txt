@@ -1,4 +1,5 @@
 nginx
+debian
 debian:12
 busybox
 redis

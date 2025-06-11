@@ -5,4 +5,5 @@ redis
 python
 jenkins/jenkins
 ubuntu
+ubuntu:22.04
 

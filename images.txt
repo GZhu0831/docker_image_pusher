@@ -2,6 +2,7 @@ nginx
 debian
 debian:12
 busybox
+--platform=linux/arm64 busybox
 redis
 python
 jenkins/jenkins
